@@ -1,2 +1,2 @@
 # TaskManager
-Simple web application created with Flask using SQLAlchemy and WTForms. You can add, edit or delete tasks.
+Web application created with Flask using SQLAlchemy and WTForms. You can add, edit or delete tasks.
